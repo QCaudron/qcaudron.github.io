@@ -5,7 +5,7 @@
 
 #######################################################################################
 # Book settings
-title                       : About Quentin Caudron  # The title of the book. Will be placed in the left navbar.
+title                       : Quentin Caudron  # The title of the book. Will be placed in the left navbar.
 author                      : Quentin Caudron  # The author of the book
 copyright                   : "2022"  # Copyright year to be placed in the footer
 logo                        : "./assets/images/quentin.jpg"  # A path to the book logo
