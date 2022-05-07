@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "qcaudron.github.io"
+version = "0.1.0"
+description = "Quentin Caudron's website"
+authors = ["Quentin CAUDRON <quentincaudron@gmail.com>"]
+license = "MIT"
+
+[tool.poetry.dependencies]
+python = "^3.8"
+jupyter-book = "^0.12.3"
+
+[tool.poetry.dev-dependencies]
+flake8 = "^4.0.1"
+black = "^22.3.0"
+isort = "^5.10.1"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
