@@ -9,6 +9,7 @@ license = "MIT"
 python = "^3.8"
 jupyter-book = "^0.12.3"
 quantecon-book-theme = {git = "https://github.com/QuantEcon/quantecon-book-theme.git"}
+MarkupSafe = "2.0.1"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]
