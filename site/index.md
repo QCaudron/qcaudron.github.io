@@ -1,4 +1,4 @@
-# 
+# Confused Compute
 
 I'm a computer scientist and physicist passionate about interdisciplinary collaboration, learning, and teaching. I'm particularly interested in agriculture tech, the biomedical fields, and any work that can improve our well-being as humans.
 

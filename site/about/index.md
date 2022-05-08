@@ -22,18 +22,5 @@ I've also collaborated widely, on things like building image processing algorith
 
 ## Personal
 
-I was born in France, and have also lived in the USA, the UK, Poland, Russia, and Canada. I've really enjoyed seeing some beautiful places and sampling different cultures (and food !).
+I was born in France, and have also lived in the USA, the UK, Poland, Russia, and Canada. I've really enjoyed seeing some beautiful places and sampling different cultures (and food !). 
 
-
-
-
-
-
-
-
-
-Before researching statistical and computational methods in epidemiology at Princeton University, I earned a PhD in Mathematical Neuroscience and a MSc in Complexity Science at the University of Warwick. 
-
-I am the founder and organizer of the award-winning Advanced Topics on Machine learning ( ATOM ) discussion group in Seattle. Whilst at Princeton, I founded the Princeton University Python Community, and taught workshops on scientific computing for the Princeton Institute for Computational Science and Engineering. 
-
-My interests are in applied mathematics, signal and image processing, and machine learning.
