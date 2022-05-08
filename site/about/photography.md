@@ -1,40 +1,39 @@
 # Photography
 
 ````{panels}
-^^^
-Panel body 1
-+++
+
+```{image} ../assets/images/radio_beach.jpg
+:alt: Running a VHF net from a Tacoma beach.
+:class: bg-primary mb-1
+:width: 200px
+:align: center
+```
+
 ---
 
-^^^
-Panel body 2
-+++
+```{image} ../assets/images/radio_beach.jpg
+:alt: Running a VHF net from a Tacoma beach.
+:class: bg-primary mb-1
+:width: 200px
+:align: center
+```
 
-^^^
-Panel body 3
-+++
+---
 
-^^^
-Panel body 4
-+++
+```{image} ../assets/images/radio_beach.jpg
+:alt: Running a VHF net from a Tacoma beach.
+:class: bg-primary mb-1
+:width: 200px
+:align: center
+```
 
-^^^
-Panel body 5
-+++
+---
 
-^^^
-Panel body 6
-+++
+```{image} ../assets/images/radio_beach.jpg
+:alt: Running a VHF net from a Tacoma beach.
+:class: bg-primary mb-1
+:width: 200px
+:align: center
+```
 
-^^^
-Panel body 7
-+++
-
-^^^
-Panel body 8
-+++
-
-^^^
-Panel body 9
-+++
 ````
