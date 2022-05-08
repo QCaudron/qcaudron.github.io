@@ -4,6 +4,6 @@
 format: jb-book
 root: index
 chapters:
-- file: about
+- file: about/index
   sections: 
-  - hobbies
+  - file: about/hobbies
