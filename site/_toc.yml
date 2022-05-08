@@ -7,3 +7,5 @@ chapters:
 - file: about/index
   sections: 
   - file: about/hobbies
+  - file: about/publications
+- file: community/index
