@@ -4,7 +4,12 @@ I'm an active amateur radio operator, callsign K7DRQ.
 
 On the HF bands, I exclusively operate CW (Morse code), either from my home station or with a portable setup, in parks or on beaches.
 
-<a href="./assets/images/portable_radio.jpg"><img src="./assets/images/portable_radio.jpg" width="600px"></a>
+```{image} ../images/portable_radio.jpg
+:alt: Portable radio setup
+:class: bg-primary mb-1
+:width: 600px
+:align: center
+```
 
 I'm also active on local VHF; I serve as Secretary of the Board for the [Puget Sound Repeater Group](https://web.psrg.org/), and I run the Nine O'clock Net every Sunday morning.
 
