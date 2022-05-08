@@ -1,4 +1,4 @@
-## Publications
+# Publications
 
 MSY Lau *et al*., "[A competing-risks model explains hierarchical spatial coupling of measles epidemics en route to national elimination](https://www.nature.com/articles/s41559-020-1186-6)," Nature Ecology and Evolution, vol. 4, no. 7, pp. 934–939, Jul. 2020, doi: 10.1038/s41559-020-1186-6.
 
