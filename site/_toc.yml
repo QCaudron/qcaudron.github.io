@@ -4,8 +4,10 @@
 format: jb-book
 root: index
 chapters:
+- file: publications/index
 - file: about/index
   sections: 
-  - file: about/hobbies
-- file: publications/index
+  - file: about/radio
+  - file: about/gardening
+  - file: about/photography
 - file: community/index
