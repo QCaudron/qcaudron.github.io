@@ -4,5 +4,6 @@
 format: jb-book
 root: index
 chapters:
-- file: notebooks
-- file: markdown-notebooks
+- file: about
+  sections: 
+  - hobbies
