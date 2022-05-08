@@ -1,12 +1,5 @@
 # Publications
 
-```{figure} ../assets/images/document_icon.jpg
-:alt: Download article.
-:class: bg-primary mb-1
-:width: 20px
-:align: left
-:src: www.google.com
-```
 MSY Lau *et al*., "[A competing-risks model explains hierarchical spatial coupling of measles epidemics en route to national elimination](https://www.nature.com/articles/s41559-020-1186-6)," Nature Ecology and Evolution, vol. 4, no. 7, pp. 934–939, Jul. 2020, doi: 10.1038/s41559-020-1186-6.
 
 CN Davis, TD Hollingsworth, **Q Caudron**, and MA Irvine, "[The use of mixture density networks in the emulation of complex epidemiological individual-based models](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006869)," PLoS Computational Biology, vol. 16, no. 3, p. e1006869, Mar. 2020, doi: 10.1371/journal.pcbi.1006869.
