@@ -4,7 +4,7 @@ I'm an active amateur radio operator, callsign K7DRQ.
 
 On the HF bands, I exclusively operate CW (Morse code), either from my home station or with a portable setup, in parks or on beaches.
 
-```{image} ../images/portable_radio.jpg
+```{image} ../assets/images/portable_radio.jpg
 :alt: Portable radio setup
 :class: bg-primary mb-1
 :width: 600px
