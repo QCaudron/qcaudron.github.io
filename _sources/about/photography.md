@@ -35,16 +35,6 @@ The night sky from southern France.
 ---
 
 
-```{image} https://i.imgur.com/DZ0koCa.jpg
-:alt: Park Guell, in Barcelona.
-:class: bg-primary mb-1
-:align: center
-```
-+++
-Park Guell, in Barcelona.
----
-
-
 ```{image} https://i.imgur.com/ebko91x.jpg
 :alt: A bird of prey, in Washington State.
 :class: bg-primary mb-1
@@ -52,6 +42,16 @@ Park Guell, in Barcelona.
 ```
 +++
 A bird of prey, in Washington State.
+---
+
+
+```{image} https://i.imgur.com/DZ0koCa.jpg
+:alt: Park Guell, in Barcelona.
+:class: bg-primary mb-1
+:align: center
+```
++++
+Park Guell, in Barcelona.
 ---
 
 
@@ -95,16 +95,6 @@ Inside a bell pepper.
 ---
 
 
-```{image} https://i.imgur.com/x8URCOm.jpg
-:alt: Vertical panorama of the Sagrada Familia, Barcelona.
-:class: bg-primary mb-1
-:align: center
-```
-+++
-Vertical panorama of the Sagrada Familia, Barcelona.
----
-
-
 ```{image} https://i.imgur.com/0yZEWsF.jpg
 :alt: Mount Rainier, from Naches Peak Loop.
 :class: bg-primary mb-1
@@ -122,6 +112,16 @@ Mount Rainier, from Naches Peak Loop.
 ```
 +++
 The solar eclipse of August 21, 2017.
+---
+
+
+```{image} https://i.imgur.com/x8URCOm.jpg
+:alt: Vertical panorama of the Sagrada Familia, Barcelona.
+:class: bg-primary mb-1
+:align: center
+```
++++
+Vertical panorama of the Sagrada Familia, Barcelona.
 ---
 
 
