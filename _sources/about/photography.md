@@ -12,8 +12,8 @@
 ```
 +++
 The Milky Way from near Brive, France.
-
 ---
+
 
 ```{image} https://i.imgur.com/Hbw5rRr.jpg
 :alt: Comet Neowise from Steilacoom, Washington.
@@ -22,8 +22,8 @@ The Milky Way from near Brive, France.
 ```
 +++
 Comet Neowise from Steilacoom, Washington.
-
 ---
+
 
 ```{image} https://i.imgur.com/9ZrIMDk.jpg
 :alt: The night sky from southern France.
@@ -32,8 +32,8 @@ Comet Neowise from Steilacoom, Washington.
 ```
 +++
 The night sky from southern France.
-
 ---
+
 
 ```{image} https://i.imgur.com/DZ0koCa.jpg
 :alt: Park Guell, in Barcelona.
@@ -42,8 +42,8 @@ The night sky from southern France.
 ```
 +++
 Park Guell, in Barcelona.
-
 ---
+
 
 ```{image} https://i.imgur.com/ebko91x.jpg
 :alt: A bird of prey, in Washington State.
@@ -52,8 +52,8 @@ Park Guell, in Barcelona.
 ```
 +++
 A bird of prey, in Washington State.
-
 ---
+
 
 ```{image} https://i.imgur.com/sf1aXJX.jpg
 :alt: A wooden bridge on a hike in Shenandoah.
@@ -62,8 +62,8 @@ A bird of prey, in Washington State.
 ```
 +++
 A wooden bridge on a hike in Shenandoah.
-
 ---
+
 
 ```{image} https://i.imgur.com/bYK9j8M.jpg
 :alt: A chipmunk in Mount Rainier National Park.
@@ -72,8 +72,8 @@ A wooden bridge on a hike in Shenandoah.
 ```
 +++
 A chipmunk in Mount Rainier National Park.
-
 ---
+
 
 ```{image} https://i.imgur.com/H2NEdWT.jpg
 :alt: Long exposure of a New Jersey beach.
@@ -82,8 +82,8 @@ A chipmunk in Mount Rainier National Park.
 ```
 +++
 Long exposure of a New Jersey beach.
-
 ---
+
 
 ```{image} https://i.imgur.com/pTyDfNP.jpg
 :alt: Inside a bell pepper.
@@ -92,8 +92,8 @@ Long exposure of a New Jersey beach.
 ```
 +++
 Inside a bell pepper.
-
 ---
+
 
 ```{image} https://i.imgur.com/x8URCOm.jpg
 :alt: Vertical panorama of the Sagrada Familia, Barcelona.
@@ -102,8 +102,18 @@ Inside a bell pepper.
 ```
 +++
 Vertical panorama of the Sagrada Familia, Barcelona.
-
 ---
+
+
+```{image} https://i.imgur.com/0yZEWsF.jpg
+:alt: Mount Rainier, from Naches Peak Loop.
+:class: bg-primary mb-1
+:align: center
+```
++++
+Mount Rainier, from Naches Peak Loop.
+---
+
 
 ```{image} https://i.imgur.com/mFIbXJv.jpg
 :alt: The solar eclipse of August 21, 2017.
@@ -112,14 +122,27 @@ Vertical panorama of the Sagrada Familia, Barcelona.
 ```
 +++
 The solar eclipse of August 21, 2017.
-
 ---
 
+
 ```{image} https://i.imgur.com/vzhrBoE.jpg
-:alt: A river near Cle Elum, Washington.
+:alt: The Cooper River near Cle Elum, Washington.
 :class: bg-primary mb-1
 :align: center
 ```
 +++
-A river near Cle Elum, Washington.
+The Cooper River near Cle Elum, Washington.
+---
+
+
+```{image} https://i.imgur.com/vth4kGo.jpg
+:alt: An alligator in the Florida Everglades.
+:class: bg-primary mb-1
+:align: center
+```
++++
+An alligator in the Florida Everglades.
+---
+
+
 ````
