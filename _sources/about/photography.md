@@ -65,6 +65,16 @@ A wooden bridge on a hike in Shenandoah.
 ---
 
 
+```{image} https://i.imgur.com/pTyDfNP.jpg
+:alt: Inside a bell pepper.
+:class: bg-primary mb-1
+:align: center
+```
++++
+Inside a bell pepper.
+---
+
+
 ```{image} https://i.imgur.com/bYK9j8M.jpg
 :alt: A chipmunk in Mount Rainier National Park.
 :class: bg-primary mb-1
@@ -82,16 +92,6 @@ A chipmunk in Mount Rainier National Park.
 ```
 +++
 Long exposure of a New Jersey beach.
----
-
-
-```{image} https://i.imgur.com/pTyDfNP.jpg
-:alt: Inside a bell pepper.
-:class: bg-primary mb-1
-:align: center
-```
-+++
-Inside a bell pepper.
 ---
 
 
