@@ -142,7 +142,7 @@ The Cooper River near Cle Elum, Washington.
 ```
 +++
 An alligator in the Florida Everglades.
----
+
 
 
 ````
