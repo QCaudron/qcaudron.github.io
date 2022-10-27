@@ -1,0 +1,29 @@
+- title: Staff Data Scientist, Granular (Corteva Agriscience)
+  from: 2021
+  to: present
+  description: Data science lead, Carbon portfolio. Large-scale spatial modeling of crop yield and field management from satellite imagery and remote sensing; detection of crop rotation patterns; educational talks to fellow data and research scientists.
+
+- title: Principal Data Scientist, CBRE
+  from: 2019
+  to: 2021
+  description: Head, CBRE Build Data Science. Natural language processing for lease abstraction; economic and epidemiological modeling for corporate response to the COVID pandemic; forming a multinational community of data practitioners within the company.
+
+- title: Senior Data Scientist, CBRE
+  from: 2018
+  to: 2019
+  description: Subject matter expert, data and product analytics. Bespoke user behavior understanding; product valuation via productivity gain estimates; education and outreach to engineers and product managers.
+
+- title: Data Scientist, CBRE
+  from: 2016
+  to: 2018
+  description: Product analytics for CBRE Build, a commercial real estate platform. Product instrumentation and usage analytics; pipelines for automated data collection and processing; data visualization and dashboarding.
+
+- title: Postdoctoral Researcher, Princeton University
+  from: 2013
+  to: 2016
+  description: Statistical and theoretical epidemiology. Study of small-population epidemic dynamics; computer vision algorithms for histological image processing; development and delivery of scientific computing courses for the Princeton Institute for Computational Science and Engineering.
+
+- title: PhD, University of Warwick
+  from: 2009
+  to: 2013
+  description: Mathematical and computational neuroscience. Derivation of new algorithms for solving the path integral on branching dendritic structures, in the time and Laplace domains; development and delivery of scientific computing courses to Masters students.

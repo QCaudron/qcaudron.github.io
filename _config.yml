@@ -1,0 +1,31 @@
+# remote_theme: jekyll/minima
+remote_theme: YoussefRaafatNasry/portfolYOU
+
+name: Quentin Caudron
+title: Quentin Caudron
+# description: Science, 
+
+author: 
+  name: Quentin Caudron, PhD
+  email: quentincaudron@gmail.com
+  github: qcaudron
+  linkedin: qcaudron
+  image: assets/quentin.jpg
+
+navbar-links:
+  Home: /
+  About: /about
+  Publications: /publications
+
+analytics:
+  enabled: true
+  google:
+    tracking_id: G-47E4JD6JKN
+
+nav_exclude:
+  - index.md
+  - README.md
+  - CNAME
+
+exclude:
+  - README.md

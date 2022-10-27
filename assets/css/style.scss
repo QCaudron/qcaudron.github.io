@@ -1,0 +1,33 @@
+---
+---
+
+@import "portfolYOU";
+
+#container {
+    display: inline-block;
+    position: relative;
+    width: 40%;
+}
+
+thead {
+    visibility: collapse;
+}
+
+.social {
+    text-decoration: none !important;
+    font-size: 2.5rem;
+}
+
+.markdown-body table:not(.highlight) td, .markdown-body table:not(.highlight) th {
+    border: 0px;
+}
+
+#theme-toggler {
+    display: none;
+}
+
+.timeline-body .timeline-item .content {
+    margin: 40px;
+    padding-bottom: 0;
+    border-bottom: 1px dashed #343a40;
+}
