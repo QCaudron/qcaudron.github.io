@@ -1,6 +1,5 @@
 ---
 title: About
-subtitle: Something here as a subtitle ?
 permalink: /about/
 weight: 2
 ---
@@ -12,7 +11,9 @@ I'm a passionate scientist with an interdisciplinary, technical background, comb
 
 ## Professional
 
-Currently, I'm a Staff Data Scientist with [Granular](https://granular.ag/). I develop models, informed by remote sensing, that help farmers better manage their operations and adopt more environmentally-friendly practices that sequester carbon (and get paid for it).
+Currently, I'm a Senior Manager, Agronomic Data Science with [Sound Agriculture](https://sound.ag). I am working to understand how [SOURCE](https://www.sound.ag/source), a foliar-applied biochemical, can be used to improve crop yields and reduce the need for traditional fertilizers.
+
+Before that, I was a Staff Data Scientist with [Granular](https://granular.ag/). I develop models, informed by remote sensing, that help farmers better manage their operations and adopt more environmentally-friendly practices that sequester carbon (and get paid for it).
 
 Prior to joining Granular, I spent five years at [CBRE](https://cbre.com/), where I lead a team of data scientists working in forecasting revenue scenarios under COVID-19, building a lease abstraction engine, analysing digital user behaviours using unsupervised learning, and bringing modern computational methods to engineers and stakeholders alike.
 
