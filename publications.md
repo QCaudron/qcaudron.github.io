@@ -6,6 +6,7 @@ weight: 10
 
 |  |  |
 |---|---|
+| 2023 | AE Downie _et al_.<br/>[Spatiotemporal-social association predicts immunological similarity in rewilded mice](https://www.science.org/doi/full/10.1126/sciadv.adh8310)<br/>_Science Advances_, vol. 9, no. 51, pp. eadh8310, Dec. 2023<br/>doi: 10.1126/sciadv.adh8310 |
 | 2020 | MSY Lau _et al_.<br/>[A competing-risks model explains hierarchical spatial coupling of measles epidemics en route to national elimination](https://www.nature.com/articles/s41559-020-1186-6)<br/>_Nature Ecology and Evolution_, vol. 4, no. 7, pp. 934–939, Apr. 2020<br/>doi: 10.1038/s41559-020-1186-6 |
 | 2020 | CN Davis, TD Hollingsworth, **Q Caudron**, and MA Irvine<br/>[The use of mixture density networks in the emulation of complex epidemiological individual-based models](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006869)<br/>_PLoS Computational Biology_, vol. 16, no. 3, p. e1006869, Mar. 2020<br/>doi: 10.1371/journal.pcbi.1006869 |
 | 2018 | R Pigeault, **Q Caudron**, A Nicot, A Rivero, and S Gandon<br/>[Timing malaria transmission with mosquito fluctuations](https://onlinelibrary.wiley.com/doi/full/10.1002/evl3.61)<br/>_Evolution Letters_, vol. 2, no. 4, pp. 378–389, Jun. 2018<br/>doi: 10.1002/evl3.6 |
