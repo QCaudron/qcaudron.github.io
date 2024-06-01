@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Caudron-Grisel Wedding</title>
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montagu+Slab:opsz,wght@16..144,100..700&display=swap"
+        rel="stylesheet">
+
+    <style>
+        body {
+            font-family: "Montagu Slab", serif;
+            font-optical-sizing: auto;
+            font-weight: 500;
+            margin: 0;
+            padding: 2rem;
+            text-align: center;
+        }
+
+        h1 {
+            margin-bottom: 0;
+        }
+
+        .title {
+            font-size: 3rem;
+            font-weight: 700;
+            padding: 0;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+
+        .plain {
+            font-weight: 300;
+            padding: 0;
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+
+        .countdown-container {
+            display: inline-block;
+            text-align: left;
+            width: 40%;
+            min-width: 300px;
+            max-width: 400px;
+        }
+
+        .countdown-item {
+            display: flex;
+            align-items: baseline;
+            justify-content: flex-start;
+            line-height: 0.1rem;
+            margin-bottom: -3rem;
+        }
+
+        .countdown-item:nth-child(odd) {
+            justify-content: flex-start;
+        }
+
+        .countdown-item:nth-child(even) {
+            justify-content: flex-end;
+        }
+
+        .number {
+            font-weight: 700;
+            font-size: 6rem;
+            margin-right: 1rem;
+        }
+
+        .text {
+            font-weight: 300;
+            font-size: 2em;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>
+        <p class="plain">The wedding of</p>
+        <p class="title">Roxane Caudron</p>
+        <p class="plain">and</p>
+        <p class="title">Thomas Grisel</p>
+    </h1>
+    <div class="countdown-container">
+        <div class="countdown-item">
+            <p id="days" class="number"></p>
+            <p class="text">days,</p>
+        </div>
+        <div class="countdown-item">
+            <p id="hours" class="number"></p>
+            <p class="text">hours,</p>
+        </div>
+        <div class="countdown-item">
+            <p id="minutes" class="number"></p>
+            <p class="text">minutes,</p>
+        </div>
+        <div class="countdown-item">
+            <p id="seconds" class="number"></p>
+            <p class="text">seconds.</p>
+        </div>
+    </div>
+</body>
+
+
+<script>
+    function getTimeUntilWedding() {
+        // The wedding is in the Netherlands, so GMT+1
+        var weddingDate = new Date("2024-08-10T15:30:00+01:00");
+        var now = new Date();
+        var timeUntilWedding = weddingDate - now;
+
+        // Convert milliseconds to days, hours, minutes
+        var days = Math.floor(timeUntilWedding / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((timeUntilWedding % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((timeUntilWedding % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((timeUntilWedding % (1000 * 60)) / 1000);
+
+        return [days, hours, minutes, seconds];
+    }
+
+    // Update the countdown every second
+    setInterval(function () {
+        var timeUntilWedding = getTimeUntilWedding();
+        document.getElementById("days").innerHTML = timeUntilWedding[0];
+        document.getElementById("hours").innerHTML = timeUntilWedding[1];
+        document.getElementById("minutes").innerHTML = timeUntilWedding[2];
+        document.getElementById("seconds").innerHTML = timeUntilWedding[3];
+    }, 1000);
+
+    // Initial update
+    var timeUntilWedding = getTimeUntilWedding();
+    document.getElementById("days").innerHTML = timeUntilWedding[0];
+    document.getElementById("hours").innerHTML = timeUntilWedding[1];
+    document.getElementById("minutes").innerHTML = timeUntilWedding[2];
+    document.getElementById("seconds").innerHTML = timeUntilWedding[3];
+
+</script>
+
+</html>
