@@ -5,30 +5,38 @@ weight: 20
 ---
 
 
-<object data="/assets/Quentin_CAUDRON.pdf" width="1000" height="1000" type='application/pdf'></object>
+<!-- <object data="/assets/Quentin_CAUDRON.pdf" width="1000" height="1000" type='application/pdf'></object> -->
 
-<!-- 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.14.305/pdf.min.js"></script>
+
 
 <style>
+    /* Make sure body respects header/footer */
     body {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        flex-direction: column;
-        min-height: 100vh;
         background-color: #f4f4f4;
         margin: 0;
+        padding: 0;
+        font-family: Arial, sans-serif;
     }
+
+    /* Wrapper ensures it doesn’t overlap */
+    #pdf-container {
+        display: flex;
+        justify-content: center;
+        align-items: flex-start;
+        margin-top: 100px; /* Adjust based on header height */
+        padding-bottom: 50px; /* Adjust based on footer */
+    }
+
     #pdf-viewer {
         width: 80%;
-        max-width: 1200px;
+        max-width: 900px;
         background: white;
         box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
         padding: 20px;
         border-radius: 8px;
         text-align: center;
     }
+
     canvas {
         display: block;
         margin: 10px auto;
@@ -37,30 +45,36 @@ weight: 20
     }
 </style>
 
-<div id="pdf-viewer"></div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.14.305/pdf.min.js"></script>
+
+<div id="pdf-container">
+    <div id="pdf-viewer"></div>
+</div>
 
 <script>
-    var url = "/assets/Quentin_CAUDRON.pdf"; // Replace with your actual PDF file
-    var loadingTask = pdfjsLib.getDocument(url);
+    document.addEventListener("DOMContentLoaded", function () {
+        var url = "/assets/yourfile.pdf"; // Adjust path based on Jekyll structure
+        var loadingTask = pdfjsLib.getDocument(url);
 
-    loadingTask.promise.then(function(pdf) {
-        var viewer = document.getElementById("pdf-viewer");
+        loadingTask.promise.then(function(pdf) {
+            var viewer = document.getElementById("pdf-viewer");
 
-        for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
-            pdf.getPage(pageNum).then(function(page) {
-                var scale = 1.5;
-                var viewport = page.getViewport({ scale: scale });
+            for (let pageNum = 1; pageNum <= pdf.numPages; pageNum++) {
+                pdf.getPage(pageNum).then(function(page) {
+                    var scale = 1.5;
+                    var viewport = page.getViewport({ scale: scale });
 
-                var canvas = document.createElement("canvas");
-                var context = canvas.getContext("2d");
-                canvas.width = viewport.width;
-                canvas.height = viewport.height;
+                    var canvas = document.createElement("canvas");
+                    var context = canvas.getContext("2d");
+                    canvas.width = viewport.width;
+                    canvas.height = viewport.height;
 
-                viewer.appendChild(canvas);
+                    viewer.appendChild(canvas);
 
-                var renderContext = { canvasContext: context, viewport: viewport };
-                page.render(renderContext);
-            });
-        }
+                    var renderContext = { canvasContext: context, viewport: viewport };
+                    page.render(renderContext);
+                });
+            }
+        });
     });
-</script> -->
+</script>
