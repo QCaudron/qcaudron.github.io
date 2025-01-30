@@ -76,7 +76,7 @@ weight: 20
 </style>
 
 <!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.14.305/pdf.min.js"></script> -->
-<script src="https://cdnjs.com/libraries/pdf.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.mjs"></script>
 
 <!-- Wrapper to ensure it stays inside the content area -->
 <div id="pdf-wrapper">
