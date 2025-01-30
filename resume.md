@@ -10,7 +10,6 @@ weight: 20
         background-color: #f4f4f4;
         margin: 0;
         padding: 0;
-        font-family: Arial, sans-serif;
     }
 
     /* Wrapper for proper layout */
@@ -19,8 +18,8 @@ weight: 20
         flex-direction: column;
         align-items: center;
         padding: 20px;
-        width: 100%;  /* Ensure wrapper doesn't exceed the width */
-        max-width: 1200px; /* Optional, to limit the width of the entire content */
+        width: 100%;
+        max-width: 1200px;
     }
 
 
