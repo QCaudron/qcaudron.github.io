@@ -82,9 +82,8 @@ weight: 20
 <!-- Wrapper to ensure it stays inside the content area -->
 <div id="pdf-wrapper">
     <div id="pdf-toolbar">
-        <button id="zoomOut"><span class="zoom-icon">− </span> Zoom Out</button>
-        <button id="zoomIn"><span class="zoom-icon">+ </span> Zoom In</button>
-        <button id="downloadPdf"><span class="zoom-icon">⬇ </span> Download</button>
+        <button id="downloadPdf"><span class="zoom-icon">⬇ </span> Download resume</button>
+        <button id="downloadPdfPub"><span class="zoom-icon">⬇ </span> Download resume with publications</button>
     </div>
     <div id="pdf-container"></div>
 </div>
@@ -92,6 +91,7 @@ weight: 20
 <script>
     document.addEventListener("DOMContentLoaded", function () {
         var url = "/assets/Quentin_CAUDRON.pdf";
+        var urlpub = "/assets/Quentin_CAUDRON_pub.pdf";
         var loadingTask = pdfjsLib.getDocument(url);
         var pdfDoc = null;
         var scale = 2.0; // Max zoom
@@ -122,21 +122,11 @@ weight: 20
             renderPages(); // Initial render
         });
 
-        // Zoom Controls
-        document.getElementById("zoomIn").addEventListener("click", function () {
-            scale += 0.2;
-            renderPages();
-        });
-
-        document.getElementById("zoomOut").addEventListener("click", function () {
-            if (scale > 0.5) {
-                scale -= 0.2;
-                renderPages();
-            }
-        });
-
         document.getElementById("downloadPdf").addEventListener("click", function () {
             window.open(url, "_blank");
+        });
+        document.getElementById("downloadPdf").addEventListener("click", function () {
+            window.open(urlpub, "_blank");
         });
     });
 </script>
