@@ -19,14 +19,17 @@ weight: 20
         flex-direction: column;
         align-items: center;
         padding: 20px;
+        width: 100%;  /* Ensure wrapper doesn't exceed the width */
+        max-width: 1200px; /* Optional, to limit the width of the entire content */
     }
+
 
     /* Toolbar properly styled */
     #pdf-toolbar {
         width: 120%;
         max-width: 1080px;
         background: #333;
-        /* display: flex; */
+        display: flex;
         justify-content: center;
         gap: 10px;
         padding: 10px;
@@ -49,7 +52,7 @@ weight: 20
         background: #777;
     }
 
-    /* PDF Viewer */
+ /* PDF Viewer */
     #pdf-container {
         width: 120%;
         max-width: 1080px;
@@ -59,6 +62,8 @@ weight: 20
         border-radius: 8px;
         text-align: center;
         margin: 0 auto;
+        margin-left: auto;
+        margin-right: auto;
     }
 
     canvas {
