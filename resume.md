@@ -23,21 +23,21 @@ weight: 20
 
     /* Toolbar properly styled */
     #pdf-toolbar {
-        display: flex;
+        width: 120%;
+        max-width: 1080px;
+        background: #333;
+        /* display: flex; */
         justify-content: center;
         gap: 10px;
         padding: 10px;
-        background: #333;
         color: white;
-        width: 120%;
-        max-width: 1080px;
         border-radius: 8px;
         margin-bottom: 10px;
     }
 
     #pdf-toolbar button {
         background: #555;
-        color: white;  /* Explicitly white text */
+        color: white;
         border: none;
         padding: 8px 12px;
         cursor: pointer;
@@ -51,14 +51,14 @@ weight: 20
 
     /* PDF Viewer */
     #pdf-container {
-        width: 120%;  /* Your custom width */
-        max-width: 1080px; /* Prevent excessive stretching */
+        width: 120%;
+        max-width: 1080px;
         background: white;
         box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
         padding: 20px;
         border-radius: 8px;
         text-align: center;
-        margin: 0 auto; /* Keep centered */
+        margin: 0 auto;
     }
 
     canvas {
