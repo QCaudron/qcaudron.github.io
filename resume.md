@@ -5,6 +5,9 @@ weight: 20
 ---
 
 
+<object data="/assets/Quentin_CAUDRON.pdf" width="1000" height="1000" type='application/pdf'></object>
+
+<!-- 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.14.305/pdf.min.js"></script>
 
 <style>
@@ -60,4 +63,4 @@ weight: 20
             });
         }
     });
-</script>
+</script> -->
