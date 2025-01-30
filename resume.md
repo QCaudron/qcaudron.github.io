@@ -54,7 +54,7 @@ weight: 20
 
  /* PDF Viewer */
     #pdf-container {
-        width: 120%;
+        width: 100%;
         max-width: 1080px;
         background: white;
         box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
