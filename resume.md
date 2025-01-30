@@ -53,7 +53,7 @@ weight: 20
 
 <script>
     document.addEventListener("DOMContentLoaded", function () {
-        var url = "/assets/yourfile.pdf"; // Adjust path based on Jekyll structure
+        var url = "/assets/Quentin_CAUDRON.pdf";
         var loadingTask = pdfjsLib.getDocument(url);
 
         loadingTask.promise.then(function(pdf) {
