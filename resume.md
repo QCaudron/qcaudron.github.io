@@ -71,19 +71,19 @@ weight: 20
     .zoom-icon {
         color: white;
         font-weight: bold;
-        font-size: 16px;
+        font-size: 20px;
     }
 </style>
 
-<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.14.305/pdf.min.js"></script> -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.mjs"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.14.305/pdf.min.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/4.10.38/pdf.min.mjs"></script> -->
 
 <!-- Wrapper to ensure it stays inside the content area -->
 <div id="pdf-wrapper">
     <div id="pdf-toolbar">
-        <button id="zoomOut"><span class="zoom-icon">−</span> Zoom Out</button>
-        <button id="zoomIn"><span class="zoom-icon">+</span> Zoom In</button>
-        <button id="downloadPdf"><span class="zoom-icon">⬇</span> Download</button>
+        <button id="zoomOut"><span class="zoom-icon">− </span> Zoom Out</button>
+        <button id="zoomIn"><span class="zoom-icon">+ </span> Zoom In</button>
+        <button id="downloadPdf"><span class="zoom-icon">⬇ </span> Download</button>
     </div>
     <div id="pdf-container"></div>
 </div>
