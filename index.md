@@ -6,9 +6,11 @@ permalink: /
 
 {% include landing.html %}
 
-I'm a computer scientist and physicist passionate about interdisciplinary collaboration, learning, and teaching. I'm particularly interested in agriculture tech, the biomedical fields, and any work that can improve our well-being as humans.
 
-I was born in France, and have lived in several different countries. I love reading, mostly fantasy and science fiction, but also philosophy and technical literature. I'm an avid cook and bread baker, and a scotch aficionado. I'm also a [photographer](https://imgur.com/a/wZJT3eN) and [amateur radio operator](https://www.qrz.com/db/K7DRQ).
+With a background in computer science, applied mathematics, and statistics, I specialize in using machine learning, data science, and modeling techniques to solve complex problems in biology. Over the past 12 years, I've worked across academia, industry, and startups, building systems that help make sense of biological data and improve decision-making. My work has focused on applications in agriculture tech and the biomedical fields, aiming to enhance human well-being.
+
+Originally from France, I've lived in several countries. Outside of work, I'm an avid reader, especially of fantasy and science fiction. I also love cooking and bread baking. As a [photographer](https://imgur.com/a/wZJT3eN) and [amateur radio operator](https://www.qrz.com/db/K7DRQ), I'm always exploring new ways to learn and create.
+
 
 You can [contact me here](mailto:quentincaudron@gmail.com).
 
