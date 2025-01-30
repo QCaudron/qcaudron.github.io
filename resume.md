@@ -4,7 +4,6 @@ permalink: /resume/
 weight: 20
 ---
 
-
 <style>
     /* General Styles */
     body {
@@ -14,7 +13,7 @@ weight: 20
         font-family: Arial, sans-serif;
     }
 
-    /* Keep toolbar inside content */
+    /* Wrapper for proper layout */
     #pdf-wrapper {
         display: flex;
         flex-direction: column;
@@ -22,7 +21,7 @@ weight: 20
         padding: 20px;
     }
 
-    /* Toolbar inside content, not floating */
+    /* Toolbar properly styled */
     #pdf-toolbar {
         display: flex;
         justify-content: center;
@@ -30,15 +29,15 @@ weight: 20
         padding: 10px;
         background: #333;
         color: white;
-        width: 120%;
-        max-width: 1200px;
+        width: 80%;
+        max-width: 900px;
         border-radius: 8px;
         margin-bottom: 10px;
     }
 
     #pdf-toolbar button {
         background: #555;
-        color: white;
+        color: white;  /* Explicitly white text */
         border: none;
         padding: 8px 12px;
         cursor: pointer;
@@ -52,13 +51,14 @@ weight: 20
 
     /* PDF Viewer */
     #pdf-container {
-        width: 120%;
-        max-width: 1200px;
+        width: 120%;  /* Your custom width */
+        max-width: 1080px; /* Prevent excessive stretching */
         background: white;
         box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
         padding: 20px;
         border-radius: 8px;
         text-align: center;
+        margin: 0 auto; /* Keep centered */
     }
 
     canvas {
@@ -67,16 +67,23 @@ weight: 20
         max-width: 100%;
         height: auto;
     }
+
+    .zoom-icon {
+        color: white;
+        font-weight: bold;
+        font-size: 16px;
+    }
 </style>
 
-<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.14.305/pdf.min.js"></script>
+<!-- <script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/2.14.305/pdf.min.js"></script> -->
+<script src="https://cdnjs.com/libraries/pdf.min.js"></script>
 
 <!-- Wrapper to ensure it stays inside the content area -->
 <div id="pdf-wrapper">
     <div id="pdf-toolbar">
-        <button id="zoomOut">➖ Zoom Out</button>
-        <button id="zoomIn">➕ Zoom In</button>
-        <button id="downloadPdf">⬇ Download</button>
+        <button id="zoomOut"><span class="zoom-icon">−</span> Zoom Out</button>
+        <button id="zoomIn"><span class="zoom-icon">+</span> Zoom In</button>
+        <button id="downloadPdf"><span class="zoom-icon">⬇</span> Download</button>
     </div>
     <div id="pdf-container"></div>
 </div>
@@ -86,7 +93,7 @@ weight: 20
         var url = "/assets/Quentin_CAUDRON.pdf";
         var loadingTask = pdfjsLib.getDocument(url);
         var pdfDoc = null;
-        var scale = 1.0; // Default zoom
+        var scale = 2.0; // Max zoom
         var pdfContainer = document.getElementById("pdf-container");
 
         function renderPages() {
