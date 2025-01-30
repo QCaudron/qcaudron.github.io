@@ -54,16 +54,12 @@ weight: 20
 
  /* PDF Viewer */
     #pdf-container {
-        width: 100%;
+        width: 120%;
         max-width: 1080px;
         background: white;
         box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
-        padding: 20px;
         border-radius: 8px;
         text-align: center;
-        margin: 0 auto;
-        margin-left: auto;
-        margin-right: auto;
     }
 
     canvas {
