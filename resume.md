@@ -125,7 +125,7 @@ weight: 20
         document.getElementById("downloadPdf").addEventListener("click", function () {
             window.open(url, "_blank");
         });
-        document.getElementById("downloadPdf").addEventListener("click", function () {
+        document.getElementById("downloadPdfPub").addEventListener("click", function () {
             window.open(urlpub, "_blank");
         });
     });
