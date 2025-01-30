@@ -29,8 +29,8 @@ weight: 20
         padding: 10px;
         background: #333;
         color: white;
-        width: 80%;
-        max-width: 900px;
+        width: 120%;
+        max-width: 1080px;
         border-radius: 8px;
         margin-bottom: 10px;
     }
