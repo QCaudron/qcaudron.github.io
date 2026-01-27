@@ -6,7 +6,7 @@ weight: 10
 
 |  |  |
 |---|---|
-| 2025 | VK Sharma, R Garg, **Q Caudron**<br/>[A systematic literature review on deepfake detection techniques](https://doi.org/10.1007/s11042-024-19906-1)<br/>_Multimedia Tools and Applications_, vol. 84, pp. 22187-22229, Aug. 2024<br/>doi: 10.1007/s11042-024-19906-1 |
+| 2025 | VK Sharma, R Garg, **Q Caudron**<br/>[A systematic literature review on deepfake detection techniques](https://link.springer.com/article/10.1007/s11042-024-19906-1)<br/>_Multimedia Tools and Applications_, vol. 84, pp. 22187-22229, Aug. 2024<br/>doi: 10.1007/s11042-024-19906-1 |
 | 2023 | AE Downie _et al_.<br/>[Spatiotemporal-social association predicts immunological similarity in rewilded mice](https://www.science.org/doi/full/10.1126/sciadv.adh8310)<br/>_Science Advances_, vol. 9, no. 51, pp. eadh8310, Dec. 2023<br/>doi: 10.1126/sciadv.adh8310 |
 | 2020 | MSY Lau _et al_.<br/>[A competing-risks model explains hierarchical spatial coupling of measles epidemics en route to national elimination](https://www.nature.com/articles/s41559-020-1186-6)<br/>_Nature Ecology and Evolution_, vol. 4, no. 7, pp. 934–939, Apr. 2020<br/>doi: 10.1038/s41559-020-1186-6 |
 | 2020 | CN Davis, TD Hollingsworth, **Q Caudron**, and MA Irvine<br/>[The use of mixture density networks in the emulation of complex epidemiological individual-based models](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1006869)<br/>_PLoS Computational Biology_, vol. 16, no. 3, p. e1006869, Mar. 2020<br/>doi: 10.1371/journal.pcbi.1006869 |
