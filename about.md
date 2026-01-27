@@ -11,7 +11,9 @@ I'm a passionate scientist with an interdisciplinary, technical background, comb
 
 ## Professional
 
-Currently, I'm a Senior Manager, Agronomic Data Science with [Sound Agriculture](https://sound.ag). I am working to understand how [SOURCE](https://www.sound.ag/source), a foliar-applied biochemical, can be used to improve crop yields and reduce the need for traditional fertilizers.
+Currently, I'm the Head of Data Science with [Arable Labs](https://arable.com). We work to reduce irrigation water and energy consumption by providing real-time metrics around crop and soil water usage. My team is developing cutting-edge systems for geospatial sensor fusion across hundreds of hardware devices, alongside satellite imagery and third-party datasets, for robust, accurate measurement of weather processes. 
+
+I was previously Senior Manager, Agronomic Data Science with [Sound Agriculture](https://sound.ag). I am working to understand how [SOURCE](https://www.sound.ag/source), a foliar-applied biochemical, can be used to improve crop yields and reduce the need for traditional fertilizers.
 
 Before that, I was a Staff Data Scientist with [Granular](https://granular.ag/). I develop models, informed by remote sensing, that help farmers better manage their operations and adopt more environmentally-friendly practices that sequester carbon (and get paid for it).
 
