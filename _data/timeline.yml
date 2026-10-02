@@ -1,6 +1,11 @@
+- title: Head of Data Science, Arable Labs
+  from: 2025
+  to: present
+  description: Head of Data Science. My team is developing cutting-edge systems for geospatial sensor fusion across thousands of hardware devices, alongside satellite imagery and third-party datasets, for robust, accurate measurement of weather processes.
+
 - title: Sr. Manager, Data Science, Sound Agriculture
   from: 2023
-  to: present
+  to: 2025
   description: Senior Manager, Data Science. I lead data organization, tooling, and infrastructure for the Agronomy business within Sound. My team built tools for consumption, alignment, and analysis of satellite imagery, remote sensing, and harvest monitor data. We changed the way analysis is done at Sound, from one point per field to thousands.
 
 - title: Staff Data Scientist, Granular (Corteva Agriscience)

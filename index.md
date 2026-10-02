@@ -7,9 +7,9 @@ permalink: /
 {% include landing.html %}
 
 
-With a background in computer science, applied mathematics, and statistics, I specialize in using machine learning, data science, and modeling techniques to solve complex problems in biology. Over the past 12 years, I've worked across academia, industry, and startups, building systems that help make sense of biological data and improve decision-making. My work has focused on applications in agriculture tech and the biomedical fields, aiming to enhance human well-being.
+With a background in computer science, applied mathematics, and statistics, I specialise in using machine learning, data science, and modeling techniques to solve complex problems in biology. Over the past 16 years, I've worked across academia, industry, and startups, building systems that help make sense of biological data and improve decision-making. My work has focused on applications in agriculture tech and the biomedical fields, aiming to enhance human well-being.
 
-Originally from France, I've lived in several countries. Outside of work, I'm an avid reader, especially of fantasy and science fiction. I also love cooking and bread baking. As a [photographer](https://imgur.com/a/wZJT3eN) and [amateur radio operator](https://www.qrz.com/db/K7DRQ), I'm always exploring new ways to learn and create.
+Originally from France, I've lived in several countries. Outside of work, I'm an avid reader, especially of fantasy and science fiction. I also love cooking and bread baking. As a [photographer](https://imgur.com/a/wZJT3eN) and [amateur radio operator](https://www.qrz.com/db/K7DRQ), I'm always exploring new ways to learn and create. I recently moved from the Seattle area to northwestern France.
 
 
 You can [contact me here](mailto:quentincaudron@gmail.com).

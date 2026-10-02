@@ -11,20 +11,20 @@ I'm a passionate scientist with an interdisciplinary, technical background, comb
 
 ## Professional
 
-Currently, I'm the Head of Data Science with [Arable Labs](https://arable.com). We work to reduce irrigation water and energy consumption by providing real-time metrics around crop and soil water usage. My team is developing cutting-edge systems for geospatial sensor fusion across hundreds of hardware devices, alongside satellite imagery and third-party datasets, for robust, accurate measurement of weather processes. 
+Currently, I'm the Head of Data Science with [Arable Labs](https://arable.com). We work to reduce irrigation water and energy consumption by providing real-time metrics around crop health and soil water usage. My team is developing cutting-edge systems for geospatial sensor fusion across thousands of hardware devices, alongside satellite imagery and third-party datasets, for robust, accurate measurement of weather processes. 
 
-I was previously Senior Manager, Agronomic Data Science with [Sound Agriculture](https://sound.ag). I am working to understand how [SOURCE](https://www.sound.ag/source), a foliar-applied biochemical, can be used to improve crop yields and reduce the need for traditional fertilizers.
+I was previously Senior Manager, Agronomic Data Science with [Sound Agriculture](https://sound.ag). I worked to understand how [SOURCE](https://www.sound.ag/source), a foliar-applied biochemical, can be used to improve crop yields and reduce the need for traditional fertilisers.
 
-Before that, I was a Staff Data Scientist with [Granular](https://granular.ag/). I develop models, informed by remote sensing, that help farmers better manage their operations and adopt more environmentally-friendly practices that sequester carbon (and get paid for it).
+Before that, I was a Staff Data Scientist with [Granular](https://granular.ag/). I developed models, informed by remote sensing, that help farmers better manage their operations and adopt more environmentally-friendly practices that sequester carbon (and get paid for it).
 
-Prior to joining Granular, I spent five years at [CBRE](https://cbre.com/), where I lead a team of data scientists working in forecasting revenue scenarios under COVID-19, building a lease abstraction engine, analysing digital user behaviours using unsupervised learning, and bringing modern computational methods to engineers and stakeholders alike.
+Prior to joining Granular, I spent five years at [CBRE](https://cbre.com/), where I led a team of data scientists working to forecast revenue scenarios under COVID-19, building a lease abstraction engine, analysing digital user behaviours using unsupervised learning, and bringing modern computational methods to engineers and stakeholders alike.
 
 
 ## Academic
 
 I attended the [University of Warwick](https://warwick.ac.uk/) in the UK, where I graduated with a Bachelors of Chemistry with a minor in Management, with Honours.
 
-After my undergraduate, I then joined the [Centre for Complexity Science](https://warwick.ac.uk/fac/cross_fac/complexity/), and earned a Masters in Complexity Science and then a PhD in Computer Science in the field of mathematical neuroscience, under [Dr. Yulia Timofeeva](https://www.dcs.warwick.ac.uk/~yulia/). I developed algorithms to compute the [filtration properties of dendritic trees](http://wrap.warwick.ac.uk/57056/) as a function of their morphologies. 
+After my undergraduate, I joined the [Centre for Complexity Science](https://warwick.ac.uk/fac/cross_fac/complexity/), and earned a Masters in Complexity Science and then a PhD in Computer Science in the field of mathematical neuroscience, under [Dr. Yulia Timofeeva](https://www.dcs.warwick.ac.uk/~yulia/). I developed algorithms to compute the [filtration properties of dendritic trees](http://wrap.warwick.ac.uk/57056/) as a function of their morphologies. 
 
 I then worked as a postdoctoral researcher at [Princeton University](https://www.princeton.edu/)'s [Department of Ecology and Evolutionary Biology](https://eeb.princeton.edu/) in [Bryan Grenfell](https://eeb.princeton.edu/people/bryan-grenfell)'s group, studying the predictability of epidemics in small populations. During my postdoc, I also created and delivered courses in scientific computing for the [Princeton Institute for Computational Science and Engineering](https://researchcomputing.princeton.edu/about/about-picscie).
 
